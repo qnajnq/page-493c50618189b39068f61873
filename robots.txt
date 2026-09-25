@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.chongshangyunxiaojc.com/sitemap.xml
